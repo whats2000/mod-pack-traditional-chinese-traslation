@@ -6,5 +6,3 @@ Making traslate for mod<br>
 * minihud
 * malilib
 * itemscroller<br>
-
-註:繁體請全部用unicode<br>
