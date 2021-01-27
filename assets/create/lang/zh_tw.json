@@ -1100,7 +1100,7 @@
 	"create.hint.full_deployer": "_機械手_包含_過剩的物品_需要被_提取._使用_料斗，__漏斗_或其他方法將溢出釋放出來。",
 	
 	"create.gui.config.overlay1": "Hi :)",
-	"create.gui.config.overlay2": "這是一個實例層",
+	"create.gui.config.overlay2": "這是一個範例層",
 	"create.gui.config.overlay3": "點擊拖拽你的鼠標",
 	"create.gui.config.overlay4": "來將它移動到前方",
 	"create.gui.config.overlay5": "ESC退出當前界面",
@@ -1130,7 +1130,7 @@
 	
 	"_": "->------------------------] Item Descriptions [--------------- ---------<-",
 	
-	"item.create.example_item.tooltip": "EXAMPLE ITEM (just a marker that this tooltip exists)",
+	"item.create.example_item.tooltip": "範例物品 (只是一個標記，表示該物品存在)",
 	"item.create.example_item.tooltip.summary": "A brief description of the item._Underscores_highlight a term.",
 	"item.create.example_item.tooltip.condition1": "When this",
 	"item.create.example_item.tooltip.behaviour1": "Then this item does this。(behaviours show on shift)",
@@ -1777,15 +1777,15 @@
 	
 	"create.tooltip.wip": "WIP",
 	"create.tooltip.workInProgress": "這東西還沒有做完！",
-	"create.tooltip.randomWipDescription0": "別把這玩意給熊孩子",
-	"create.tooltip.randomWipDescription1": "每次你使用這個東西，都會讓一隻無辜的熊貓丟掉性命，每！一！次！",
+	"create.tooltip.randomWipDescription0": "別把這東西給屁孩",
+	"create.tooltip.randomWipDescription1": "每次你使用這個東西，都會讓一隻無辜的貓娘丟掉性命，每！一！次！",
 	"create.tooltip.randomWipDescription2": "使用後果自負",
-	"create.tooltip.randomWipDescription3": "（搖手指）這可不是你在找的物品，走開吧",
+	"create.tooltip.randomWipDescription3": "絕對不要啟動這個東西",
 	"create.tooltip.randomWipDescription4": "自爆模式已啟動，10，9，8..。",
 	"create.tooltip.randomWipDescription5": "相信我，你現在已經沒有回頭路了。",
 	"create.tooltip.randomWipDescription6": "如果你使用這個東西，那麼本作者與它造成的任何後果沒有責任。",
-	"create.tooltip.randomWipDescription7": "這玩意不是給你用的，換個吧",
-	"create.tooltip.randomWipDescription8": "試試就逝世。",
+	"create.tooltip.randomWipDescription7": "這東西不是給你用的，換個吧",
+	"create.tooltip.randomWipDescription8": "哀",
 	
 	"_": "Thank you for translating Create!"
 	
