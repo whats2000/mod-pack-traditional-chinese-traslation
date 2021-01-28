@@ -11,6 +11,7 @@ Making traslate for mod<br>
 * create(auto traslation)
 * curios
 * curiousshulkerboxes
+* endermail
 * foodui
 * ftb_backup
 * ironshulkerboxes
@@ -25,4 +26,5 @@ Making traslate for mod<br>
 * supertools
 * trashslot
 * tweakroo
+
 
