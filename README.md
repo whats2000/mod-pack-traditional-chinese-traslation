@@ -15,16 +15,12 @@ Making traslate for mod<br>
 * foodui
 * ftb_backup
 * ironshulkerboxes
-* itemscroller
 * light overlay
-* litematica
-* malilib
-* minihud
 * mining_helmet
 * neat
 * servertabinfo
 * supertools
 * trashslot
-* tweakroo
+
 
 
