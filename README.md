@@ -22,5 +22,5 @@ Making traslate for mod<br>
 * supertools
 * trashslot
 
-
+### fabric mod請去 https://github.com/whats2000/fabric-mod-chinese-traslation-resouce-pack
 
